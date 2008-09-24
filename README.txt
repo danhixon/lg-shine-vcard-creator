@@ -38,3 +38,4 @@ This puts all imported contacts alphabetically ahead of any other contacts you e
 
 2. The script wasn't written to parse vCard version 3 which is what Apple's Address Book currently exports.
 
+3. I'm lame and didn't write unit tests.
